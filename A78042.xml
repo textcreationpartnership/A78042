@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To avoid the intolerable drudgery of giving full satisfaction by a several letter to every one that may deserve and desire it, the rector of Exeter College hath taken this way to give an account of the unhappy affair which hath drawn clamors, as decry him and his assessors in behalf of one of the fellows, who they say is injuriously, or at least too severely expelled.</title>
+            <author>Bury, Arthur, 1624-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689-1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78042</idno>
+            <idno type="STC">Wing B6203A</idno>
+            <idno type="STC">ESTC R173336</idno>
+            <idno type="EEBO-CITATION">45578204</idno>
+            <idno type="OCLC">ocm 45578204</idno>
+            <idno type="VID">172155</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172155)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2616:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To avoid the intolerable drudgery of giving full satisfaction by a several letter to every one that may deserve and desire it, the rector of Exeter College hath taken this way to give an account of the unhappy affair which hath drawn clamors, as decry him and his assessors in behalf of one of the fellows, who they say is injuriously, or at least too severely expelled.</title>
+                  <author>Bury, Arthur, 1624-1713.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1689 or 90]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Arthur Bury.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Presents reasons for expelling J. Colmer from Exeter College.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Colmer, James, b. 1664 or 5.</term>
+               <term>Exeter College (University of Oxford) --  Discipline.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172155:1" rendition="simple:additions"/>
+            <head>To avoid the intolerable Drudgery of giving full Satisfaction by a ſeveral Letter to every one that may Deſerve and Deſire it, the Rector of <hi>Exeter</hi> Colledge hath taken this way to give an account of the unhappy Affair which hath drawn ſuch Clamors, as decry Him and his Aſſeſſors in behalf of one of the Fellows, who they ſay is Injuriouſly, or at leaſt too Severely Expelled.</head>
+            <div type="introduction">
+               <head>The Statute.</head>
+               <p>
+                  <hi>QUOD ſi quis Scholarium vel Electorum Adul<g ref="char:EOLhyphen"/>terij, Incontinentiae</hi> &amp;c. <hi>coram Rectore, Sub<g ref="char:EOLhyphen"/>Rectore, Decano, &amp; quinque aliis Scholaribus maxime ſenioribus, vel majore parte eorundem, cum dicti Rectoris aſſenſu, legitime convictus fuerit, ipſum perpetuo excluſum &amp; privatum ipſo facto a dicto Collegio, nulla alia monitione praemiſſa, virtute praeſentis Statuti decernimus.</hi>
+               </p>
+            </div>
+            <div n="fact" type="part">
+               <head>The Fact.</head>
+               <p>On New-years Night 1688, <hi>Anne Aris</hi> Daughter to a Bedmaker of the College was brought to bed of a Baſtard. Before the next <hi>Michaelmaſs, Anne Spar<g ref="char:EOLhyphen"/>row</hi> ſervant to another Bedmaker was delivered of another. <hi>Anne Aris</hi> laid her Child to <hi>Ferdin. Smith Anne Sparrow</hi>'s Maſter; who ſtoutly denied it, and fled to <hi>Cornwal</hi> about the end of <hi>October,</hi> furniſhed with Money by Mr. <hi>Colmer</hi> Fellow of the College. On the 26<hi rend="sup">th</hi> of <hi>January</hi> Mr. <hi>Colmer</hi> went to <hi>Cornwal,</hi> where he took <hi>Ferdin.</hi> into his ſervice, and (<hi>Aris</hi>'s Child being dead) brought him home with him to<g ref="char:EOLhyphen"/>ward the later end of <hi>April,</hi> employed him in keeping his own and his friends Horſes, and every way che<g ref="char:EOLhyphen"/>riſhed him beyond what he had done before that Journey.</p>
+               <p>After a while <hi>Anne Sparrow</hi>'s belly ſpake her with Child, but ſhe obſtinately denied it, till within a few weeks before ſhe lay down. <hi>Ferdin.</hi> then vaunted that he had been wrongfully named Father to a Ba<g ref="char:EOLhyphen"/>ſtard, but this he owned, and let no body trouble themſelves, he would maintain it.</p>
+               <p>This double ſcandal of two Baſtards within three quarters of a year, and the boaſts of a Servant (who being in <hi>Cornwal</hi> at the time when the later was be<g ref="char:EOLhyphen"/>gotten, muſt needs act in behalf of ſome conſiderable member of the College) obliged the Rector to wipe off ſo great a Blemiſh as this muſt caſt upon his Con<g ref="char:EOLhyphen"/>duct, if neglected. And upon enquiry finding the guilt muſt light upon Mr. <hi>Colmer</hi> made him acquaint<g ref="char:EOLhyphen"/>ed with what he heard: and finding him reſolved to ſtand upon his Juſtification, was for ſome weeks in great pain, between tenderneſs for a Perſon with whom he had held more familiarity than is uſual be<g ref="char:EOLhyphen"/>tween the Head and a Junior Fellow of a College on one ſide, and his care for his Own and his College Repute on the other: and almoſt reſolved to make uſe of the pardoning Power wherewith the College Statutes entruſt him: but the Inſolence of Mr. <hi>C</hi>—'s friends, and the Admonitions of his Own, prevailed with him to bring it to the hearing of thoſe whom the Statute makes Judges in ſuch caſes. He therefore appointed a time, giving Mr. <hi>C.</hi> ſix days warning to provide for his Defence.</p>
+            </div>
+            <div n="proceedings" type="part">
+               <head>The Proceedings.</head>
+               <p>About half a year before <hi>Anne Sparrow</hi> was brought to Bed, and none thought of her being with Child, <hi>Joice Aris</hi> told Mr. <hi>Crabb</hi> and ſome others, that ſhe wondered what ailed <hi>A. S.</hi> for ſhe heard her curſe Mr. <hi>C.</hi> ſaying ſhe had reaſon to curſe him for he had undone her: and in that anger refuſed to go for Wine for him: Before <hi>A. S.</hi> was delivered ſhe refuſed for ſome weeks to do any work, whereof <hi>Thomaſin</hi> her Dame, <hi>Ferdin</hi>'s wife, complained to the Rector's Wife, and afterward told her ſhe was paid for keeping her.</p>
+               <p>The Coll. Cook being Overſeer of the Poor of his Pariſh came to the Rector's Wife (in the Rector's ab<g ref="char:EOLhyphen"/>ſence) asking if without offence to her (whom he knew a friend to <hi>Thomaſin</hi>) he might put <hi>A. S.</hi> into the hands of a Juſtice ſo to ſecure his pariſh from charge of the Baſtard; ſhe readily conſented, and the next day asked him what he had done? he winking and ſmiling ſaid he was ſatisfied, for he had gotten Security.</p>
+               <p>When ſhe was delivered, the Rector asked the Cook what ſecurity he had; he ſhewed <hi>Ferdin</hi>'s Bond of Forty pounds, the Rector blamed him as falſe to his Truſt, in taking Bond from one that could not ſecure the pariſh from his own children; the Cook anſwer<g ref="char:EOLhyphen"/>ed he had better Security and ſhould not have accept<g ref="char:EOLhyphen"/>ed this, if he had not been bid to do it by one that ſaid the pariſh ſhould not be damnified.</p>
+               <p>The Midwife ſaid that when ſhe preſſed <hi>A. S.</hi> to name the true Father, <hi>Thomaſin</hi> perſwaded her not to urge her any more, for (ſaid ſhe) ſhe hath told me already.</p>
+               <p>The Rector ſurpriſed <hi>Thomaſin</hi> before ſhe had been inſtructed, and upon examination ſhe acknowledged that ſhe had been paid ſeveral weeks for keeping <hi>A. S.</hi> before ſhe was brought to bed, that ſhe had the Money of her Husband, and he of Mr. <hi>C.</hi> that <hi>A. S.</hi> had named Mr. <hi>C.</hi> for Father, and her ſelf had hindered the Midwife from examining her, becauſe ſhe was loath to have him diſgraced before the company that were then in place.</p>
+               <p>He then alſo ſurpriſed <hi>Ferdin.</hi> with whom in his ſtudy he had this Dialogue. <hi>R.</hi> What mean you to Father a Baſtard that cannot be your own? <hi>F.</hi> The ſame Man which is father of this, was father of the other. <hi>R.</hi> And are not you a ſweet Fool to do ſuch ſervice for one that did you ſuch an injury, and would have done the ſame now if you had not been out of the Country? <hi>F.</hi> I do not know that this Gentleman perſwaded the other Wench to do me that wrong. <hi>R.</hi> That would have undone you if I had thought you guilty. You know the Sub-Rector in my abſence baniſhed you the College for That, and I ſhall do it for. This, if you tell me not what I ask you. <hi>F.</hi> The Wench hath named the Father. <hi>R.</hi> I know it, for your Wife hath already told it: But the Que<g ref="char:EOLhyphen"/>ſtion to which I muſt have your Anſwer is this, Who gave you the Money which you paid your Wife for keeping <hi>Anne</hi> before ſhe was brought to bed, when ſhe could not or would not work? <hi>F.</hi> It was mine own money which I earned by keeping Horſes. <hi>R.</hi> We all know that you are ſo far from having Money to ſpare for keeping ſuch a Wench, that you have not wherewith to keep your ſelf, for it is your Wife that maintaineth you: nor hath ſhe or your children ever had ſo much of you as ſhe hath had for keeping this Wench. <hi>F.</hi> The Wench hath been chargeable but one week. <hi>R.</hi> That's falſe, ſhe hath been ſo many weeks: and if you refuſe to anſwer what I ask you when my credit and the credit of my College is ſo much concerned, you ſhall have no place in it. <hi>F.</hi> I know I have alway been obliged by you, I beſeech you excuſe me, I ſhall be undone. <hi>R.</hi> If the loſs of your place will undo you, you ſhall be undone unleſs you anſwer me. <hi>F.</hi> A Gentleman will be Expelled
+<pb facs="tcp:172155:2" rendition="simple:additions"/>and I ſhall loſe my Friends. <hi>R.</hi> Your Friends will all be loſt if you loſe your place: conſider your own intereſt, and not a man's that hath ſo much abuſed you: <hi>F.</hi> I pray give me 3 or 4 days time. <hi>R.</hi> To what purpoſe? <hi>F.</hi> To ſpeak with my Friend? <hi>R.</hi> What, to frame a lye? if you mean to ſpeak truth, you need no further time. <hi>F.</hi> But till to morrow morning. After many words the Rector requiring a preſent anſwer and <hi>Ferdin.</hi> praying time. <hi>Ferdin.</hi> went away and the next morning came, with his firſt anſwer, That he paid his Wife with his own Money.</p>
+               <p>
+                  <hi>A. S.</hi> was removed from the houſe where ſhe lay in, and Mr. <hi>C.</hi> denied not (what after clearly ap<g ref="char:EOLhyphen"/>peared) that it was done by his Friends. This was equivalent to a Man's flying when named for Father of a Baſtard; and ſince it appeared to be done to a<g ref="char:EOLhyphen"/>void her examination, was taken for no leſs evidence than if ſhe had ſworn what ſhe ſaid. Upon theſe Evidences and after ſix days warning the matter was brought to Hearing.</p>
+            </div>
+            <div n="convication" type="part">
+               <head>The Conviction.</head>
+               <p>That Mr. <hi>C.</hi> offered Money or Rudeneſs to other young Women (though then teſtified) is not now inſiſted on, becauſe it will not amount to ſuch Incon<g ref="char:EOLhyphen"/>tinence as deſerves Expulſion.</p>
+               <p>What <hi>Joice</hi> ſaid concerning <hi>Anne</hi>'s Curſing Mr. <hi>C.</hi> before ſhe appeared to be with Child (which was con<g ref="char:EOLhyphen"/>firmed by Mr. <hi>Crabb</hi> to whom ſhe then told it) this compared with <hi>Anne</hi>'s naming him for the Father, appeared ſuch a concurſe as could not but be true, though either of them ſingle were never ſo doubtful. The Cook was abſent attending the Mayor, the Rector told what he had ſaid, (and he ſtill averreth it) that Mr. <hi>C.</hi> bid him take <hi>Ferdin</hi>'s Bond, and the Pariſh ſhould not be damnified.</p>
+               <p>
+                  <hi>Thomaſin</hi> began with a ſurpriſing Preface, Sr. <hi>I muſt now tell you what I never told you yet; Anne</hi> ſaith, <hi>That Mr.</hi> C. <hi>never touched her:</hi> at which words the Rector ſaid he muſt expect no truth from her, and then took his voluntary Oath of what ſhe had told him before.</p>
+               <p>
+                  <hi>Ferdin.</hi> denied nothing of the Dialogue above reci<g ref="char:EOLhyphen"/>ted, and being preſſed by the Aſſeſſors to tell who that Friend was whom he muſt ſpeak with before he would anſwer the Rector's queſtion, becauſe if he re<g ref="char:EOLhyphen"/>fuſed to do it, it muſt lye upon Mr. <hi>C.</hi> at laſt after much tergiverſation, he ſaid his Wife was the Friend, though he had acknowledged it was a Gentleman that muſt be Expelled.</p>
+            </div>
+            <div n="defence" type="part">
+               <head>In Mr. <hi>Colmer</hi>'s Defence.</head>
+               <p>To take off the Cook's Teſtimony it was alledged, that what he ſpake was publickly in the preſence of three whom he named, and all of them were known to be his faſt Friends.</p>
+               <p>Two of them took their voluntary Oaths that <hi>Ann</hi> had cleared Mr. <hi>C.</hi> and ſaid, that Goodwife <hi>Roberts</hi> perſwaded her to name him. But <hi>Anne</hi> was known to be ſcarce half witted, and the Proverb which ſaith <hi>Children and fools ſpeak Truth,</hi> is to be underſtood of what they ſpeak of their own accord, but when they are in other folks conduct, then they ſpeak as they are prompted; and therefore this was not thought of weight ſufficient to anſwer other Evidences, eſpeci<g ref="char:EOLhyphen"/>ally becauſe ſhe ought to have been produced to ſpeak it her ſelf.</p>
+               <p>So that Mr. <hi>C.</hi> was found guilty by ſo many; that the Rector (who was to ſpeak laſt) could not but declare him Convicted, and conſequently Expelled.</p>
+            </div>
+            <div n="confirmation" type="part">
+               <head>The Confirmation.</head>
+               <p>Himſelf afterward acknowledged more than once, that he could not blame his Judges, for that himſelf upon the ſame Evidences muſt have judged any other Perſon guilty, but the Witneſſes were <hi>&amp;c.</hi>
+               </p>
+               <p>Had he continued in that mind his Diſgrace had been the leſs, but ſince he took encourage<g ref="char:EOLhyphen"/>ment from ſome that he taketh for his Friends to uſe his College as rudely as his Women, the Rector in his own Defence found it neceſſary to ſeek ſuch other Proofs as might baffle all objections.</p>
+               <p>The greateſt Objection is, That he ought not to be taken for <hi>lawfully Convicted,</hi> without Witneſs upon Oath; This, though it hold not in College-Affairs, where the Governour hath no power to adminiſter an Oath, or compel any that is no member of his Body ſo much as to ſpeak; yet (to avoid cavils) the Rector laboured to have Teſtimony upon Oath.</p>
+               <p>
+                  <hi>Ferdin.</hi> and <hi>Thomaſin</hi> who having been Agents muſt be principal Witneſſes ſaid peremtorily <hi>they would not ſwear.</hi> He went to Alderman <hi>Fyfield,</hi> if by any means he might learn from him, where <hi>Anne</hi> was From him he learned that he had been with her and taken her examination, wherein ſhe freed Mr. <hi>C.</hi> and ſaid ſhe had lain with a Gentleman of <hi>Chriſt Church</hi> and ano<g ref="char:EOLhyphen"/>ther of <hi>Braſen Noſe,</hi> but what their Names were, ſhe knew not, nor did himſelf know what Houſe ſhe then lodged in when he examined her.</p>
+               <p>☞ This Alderman is a Juſtice of Peace, a Mercer, Mr. <hi>C</hi>'s Friends and their Pupils are his Cuſtomers: he debaſeth his Office ſo low as to go to the (Hutt ra<g ref="char:EOLhyphen"/>ther than) Houſe of one of the moſt profligate Rogues in the Town, to examine (without Oath) a poor Whore, upon whom he executed not the Law, nor took any courſe to ſecure the Pariſh, but left her where he found her, without naming any Father, and refuſed to make known her hiding Place, that the Pariſh and College might be righted.</p>
+               <p>Then the Rector (comparing together Probabili<g ref="char:EOLhyphen"/>ties) thought fit to have <hi>Anne Aris</hi> examined.</p>
+               <p>Mr. <hi>C.</hi> told the Rector's Wife that he had given. <hi>Ferdin.</hi> Forty ſhillings when (upon <hi>Anne Aris</hi>'s lay<g ref="char:EOLhyphen"/>ing her Great-belly to him) he fled to <hi>Cornwal,</hi> where<g ref="char:EOLhyphen"/>upon ſhe then merrily told him, <hi>ſhe believed him to be the Father of that Child.</hi>
+               </p>
+               <p>
+                  <hi>Ferdin.</hi> ſaid that the ſame man was Father of both the Children. Mr. <hi>C</hi>'s extraordinary kindneſs to <hi>Fer<g ref="char:EOLhyphen"/>din.</hi> was obſerved to have began about That time. <hi>A. Aris</hi> before ſhe was known to be with Child had told ſome young men, that Mr. <hi>C.</hi> had tempted her as ſhe was rubbing his Chamber. Upon theſe Suſpici<g ref="char:EOLhyphen"/>ons a Warrant is obtained from Sr. <hi>William Walker,</hi> and <hi>A. Aris</hi> brought before him; where upon Oath ſhe confeſſed that <hi>Ferdin.</hi> had had Carnal knowledge of her Body three times, and Mr. <hi>C.</hi> twice.</p>
+               <p>About the ſame time, by a fortuitous concurſe able to convince an Epicurean: <hi>A. S.</hi> was met with: The Rector had cauſed the Town to be ſearched for her, thereupon ſhe was conveyed to the great living Foreſt. The firſt morning after ſhe was lodged there, look<g ref="char:EOLhyphen"/>ing out at a Window ſhe eſpied one of the College, and with joy called to him, and freely anſwered what<g ref="char:EOLhyphen"/>ever he asked of her: He ſending notice hereof to the Rector, was by him directed to have her exami<g ref="char:EOLhyphen"/>ned upon Oath by ſome Juſtice of Peace; before this direction came ſhe was removed; but after much en<g ref="char:EOLhyphen"/>deavour, was found, and examined upon Oath: ſhe ſwore that ſhe never carnally knew any man but Mr. <hi>C.</hi> and what ſhe ſaid to Alderman <hi>Fyfield</hi> concerning a Gentleman of <hi>Christ Church,</hi> was upon Mr. <hi>Cl</hi>'s and Mr. <hi>M</hi>'s perſwaſions, who told her that if ſhe accuſed Mr. <hi>C.</hi> he muſt be Expelled, but no one ever perſwa<g ref="char:EOLhyphen"/>ded her to accuſe Mr. <hi>C.</hi>
+               </p>
+               <p>That all this and more is true, the Rector is ready prove, challengeth any one that pleaſe to put him to a capacity to do it by bringing an Action of Slander againſt him, and in conformity to the Law againſt Libels ſubſcribeth his Name.</p>
+            </div>
+            <closer>
+               <signed>ARTHUR BURY.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
